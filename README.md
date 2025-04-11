@@ -1,4 +1,4 @@
-# Numerical-Analysis-CSE-218
+# Numerical Analysis
 
 We used `python` in order to simplyfy the coding part and really focus on the `Numerical Analysis` in details
 This repository contains the template codes for the following
